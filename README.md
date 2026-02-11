@@ -8,7 +8,7 @@ El objetivo es predecir la probabilidad de incumplimiento (default) de un client
 
 Metodología Aplicada
 
-El proyecto sigue los estándares de la industria bancaria (Basilea II/III):
+El proyecto sigue los estándares de la industria bancaria (Basilea III):
 
 Exploración de Datos (EDA): Análisis de distribuciones.
 
