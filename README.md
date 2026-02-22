@@ -2,7 +2,7 @@
 
 Descripción del Proyecto
 
-Este proyecto implementa un sistema completo de Scorecard de Riesgo de Crédito (Credit Scoring) utilizando Python. Simula el ciclo de vida real de un modelo de riesgo en una institución financiera, desde la ingesta de datos hasta la generación de una tarjeta de puntuación escalada (estilo FICO).
+Este proyecto implementa un sistema completo de Scorecard de Riesgo de Crédito (Credit Scoring) utilizando Python. Simula el ciclo de vida real de un modelo de riesgo en una institución financiera, desde la ingesta de datos hasta la generación de una tarjeta de puntuación escalada.
 
 El objetivo es predecir la probabilidad de incumplimiento (default) de un cliente y traducir esa probabilidad en un puntaje de crédito interpretable.
 
